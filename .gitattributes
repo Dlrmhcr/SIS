@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+x = input (" enter your name: ")
+y = input(" enter your surname: ")
+z = input(" enter your gender: ")
+w = input(" enter your student ID: ")
+a = input(" enter your department: ")
+student_information_system = [x,y,z,w,a]
+print(student_information_system)
